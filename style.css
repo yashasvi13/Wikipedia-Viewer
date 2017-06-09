@@ -1,0 +1,50 @@
+  
+  
+  .spacer {
+    padding: 3%;
+  }
+.box {
+    background-color: black;
+    opacity: .8;
+    color: white;
+    padding: 50px;
+    width: 75%;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 15px;
+    font-size: 1.5em;
+    padding-bottom: 2%;
+    font-family:Goudy Old Style;
+  }
+  
+  body {
+    position:relative;
+  margin:0;
+  padding:0;
+    background: url('http://static-28.sinclairstoryline.com/resources/media/4747a8d6-2e2d-4b69-9c10-0c2f89b1ba15-large16x9_wikipedia.jpg')fixed;
+    background-size: 100% 100%;
+  }
+
+a{
+  color:white;
+}
+.active{
+  font-size:30px;
+  background-color:black;
+  border-radius:15px;
+  padding:20px;
+  opacity:0.8;
+  color:#999;
+  font-family:Goudy Old Style;
+  
+}
+.btn{
+  background-color:#999;
+  color:black;
+  font-family:Goudy Old Style;
+  margin-top:10px;
+  margin-left:335px;
+  padding-right:15px;
+  font-size:30px;
+  
+}
